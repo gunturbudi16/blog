@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://gunturbudi16:payphone16@cluster0-nvvg4.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
